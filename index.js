@@ -9,4 +9,4 @@ let calculofRectangle = (L, l) => {
   }
 
 }
-console.log(calculofRectangle(12, 6));
+console.log(calculofRectangle(26, 6));
