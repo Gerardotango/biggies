@@ -1,12 +1,4 @@
 
-let calculofRectangle = (L, l) => {
-  let resolver = L + l;
-  if (resolver > 0 ){
-    return `le rectangle est egale à ${resolver }`;
-  
-  }else{
-    console.log("foul")
-  }
+let biblioTheque = ['lvre','story book','magical book','programming book'];
 
-}
-console.log(calculofRectangle(26, 6));
+console.log(biblioTheque[1]);
